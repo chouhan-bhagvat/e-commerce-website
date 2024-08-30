@@ -26,6 +26,5 @@ Setup
 
 1. Clone the repository:
    ```bash
-  git clone  https://github.com/chouhan-bhagvat/e-commerce-website.git
-  cd   e-commerce-website
+  git clone - https://github.com/chouhan-bhagvat/e-commerce-website.git
 
