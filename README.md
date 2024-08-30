@@ -22,3 +22,10 @@ Files Included
 - `script.js`: JavaScript for interactivity
 - `Img/`: Folder containing all images
 
+Setup
+
+1. Clone the repository:
+   ```bash
+  git clone  https://github.com/chouhan-bhagvat/e-commerce-website.git
+  cd   e-commerce-website
+
